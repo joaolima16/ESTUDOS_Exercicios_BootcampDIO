@@ -1,4 +1,4 @@
-package Collections;
+package Collections.MethodsOfList;
 
 import Collections.Entities.User;
 

@@ -1,9 +1,9 @@
-package Collections.App;
+package Collections.MethodsOfList.App;
 
 import java.util.Scanner;
 
-import Collections.ListUsers;
 import Collections.Entities.User;
+import Collections.MethodsOfList.ListUsers;
 
 public class Ex01 {
     public static void main(String[] args) {

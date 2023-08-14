@@ -1,4 +1,4 @@
-package Collections.PesquisaList;
+package Collections.SearchList;
 
 public class Ex02 {
     public static void main(String[] args) {
